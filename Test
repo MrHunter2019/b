@@ -20,9 +20,9 @@ red='\e[1;31m'
 figlet Tools | lolcat
 
 echo -e  "_____________________________________________________________"
-echo -e  "Tools    : 0daysecurity98 $white         " |lolcat
-echo -e  "Creadby  : 0day $white   " |lolcat
-echo -e  "Contact  : attackofcyber969@gmail.com $white " |lolcat
+echo -e  "Tools    : MrHunter $white         " |lolcat
+echo -e  "Creadby  : Hunter $white   " |lolcat
+echo -e  "Contact  : vianarges123@gmail.com $white " |lolcat
 echo -e  "_____________________________________________________________"
 
 ###################################################
